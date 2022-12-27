@@ -1,4 +1,4 @@
-const adduser = document.querySelector(".submit");
+const adduser = document.querySelector(".submit")
 const userid = document.getElementById("userid");
 const username = document.getElementById("username");
 const userage = document.getElementById("userage");
